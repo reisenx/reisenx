@@ -4,10 +4,10 @@
 - 🌱 I'm currently learning Python, C and C++
 
 ## Programming Languages
-<img src = "https://raw.githubusercontent.com/get-icon/geticon/master/icons/c.svg" width="50" hspace="5"> <img src = "https://raw.githubusercontent.com/get-icon/geticon/master/icons/c-plusplus.svg" width="50" hspace="5"> <img src = "https://raw.githubusercontent.com/get-icon/geticon/master/icons/python.svg" width="50" hspace="5">
+<img src = "https://raw.githubusercontent.com/get-icon/geticon/master/icons/c.svg" width="40" hspace="5"> <img src = "https://raw.githubusercontent.com/get-icon/geticon/master/icons/c-plusplus.svg" width="40" hspace="5"> <img src = "https://raw.githubusercontent.com/get-icon/geticon/master/icons/python.svg" width="40" hspace="5">
 
 ## Future Programming Language Plan
-<img src = "https://raw.githubusercontent.com/get-icon/geticon/master/icons/javascript.svg" width="50" hspace="5"> <img src = "https://raw.githubusercontent.com/get-icon/geticon/master/icons/css-3.svg" width="50" hspace="5"> <img src = "https://raw.githubusercontent.com/get-icon/geticon/master/icons/html-5.svg" width="50" hspace="5"> <img src = "https://raw.githubusercontent.com/get-icon/geticon/master/icons/java.svg" width="50" hspace="5"> <img src = "https://raw.githubusercontent.com/get-icon/geticon/master/icons/c-sharp.svg" width="50" hspace="5">
+<img src = "https://raw.githubusercontent.com/get-icon/geticon/master/icons/javascript.svg" width="40" hspace="5"> <img src = "https://raw.githubusercontent.com/get-icon/geticon/master/icons/css-3.svg" width="40" hspace="5"> <img src = "https://raw.githubusercontent.com/get-icon/geticon/master/icons/html-5.svg" width="40" hspace="5"> <img src = "https://raw.githubusercontent.com/get-icon/geticon/master/icons/java.svg" width="40" hspace="5"> <img src = "https://raw.githubusercontent.com/get-icon/geticon/master/icons/c-sharp.svg" width="40" hspace="5">
 
 <!--
 **reisenx/reisenx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
