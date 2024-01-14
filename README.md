@@ -1,5 +1,5 @@
 # Hello 👋 I'm Worralop Srichainont
-- ⚡ I'm currently studying in faculty  of Engineering at Chulalongkorn University (CU Intania 107)
+- ⚡ I'm currently studying in Faculty of Engineering at Chulalongkorn University (CU Intania 107)
 - ✨ I graduated from Suankularb Wittayalai School, GATE Program (OSK141)
 - 🌱 I'm currently learning Python, C and C++
 
