@@ -1,7 +1,7 @@
 # Hello 👋 I'm Worralop Srichainont
-- ⚡ I'm currently studying in Faculty of Engineering at Chulalongkorn University (CU Intania 107)
+- ⚡ I'm currently studying Computer Engineering at Chulalongkorn University (CU Intania 107 | CP 50)
 - ✨ I graduated from Suankularb Wittayalai School, GATE Program (OSK141)
-- 🌱 I'm currently learning Python, C and C++
+- 🌱 I'm currently learning Python, C, C++ and Java
 
 ## Programming Languages
 <img src = "https://raw.githubusercontent.com/get-icon/geticon/master/icons/c.svg" width="40" hspace="5"> <img src = "https://raw.githubusercontent.com/get-icon/geticon/master/icons/c-plusplus.svg" width="40" hspace="5"> <img src = "https://raw.githubusercontent.com/get-icon/geticon/master/icons/python.svg" width="40" hspace="5">
