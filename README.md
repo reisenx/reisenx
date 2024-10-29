@@ -36,10 +36,10 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reisenx&show_icons=true&locale=en&layout=compact&include_all_commits=true&count_private=true&theme=omni" height="200" alt="reisenx"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=reisenx&show_icons=true&locale=en&include_all_commits=true&count_private=true&theme=omni" height="200" alt="reisenx"/></p> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reisenx&show_icons=true&locale=en&layout=compact&include_all_commits=true&count_private=true&theme=omni" height="175" alt="reisenx"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=reisenx&show_icons=true&locale=en&include_all_commits=true&count_private=true&theme=omni" height="175" alt="reisenx"/></p> 
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=reisenx&theme=darkhub&title=-Issues,-Reviews" alt="reisenx"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=reisenx&theme=darkhub" alt="reisenx"/>
 </div>
