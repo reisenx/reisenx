@@ -35,7 +35,11 @@
 <a href="https://instagram.com/bloom.wrls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bloom.wrls" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reisenx&show_icons=true&locale=en&layout=compact&theme=omni" alt="reisenx" /></p> <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=reisenx&show_icons=true&locale=en&theme=omni" alt="reisenx" /></p> 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reisenx&show_icons=true&locale=en&layout=compact&include_all_commits=true&count_private=true&theme=omni" height="200" alt="reisenx"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=reisenx&show_icons=true&locale=en&include_all_commits=true&count_private=true&theme=omni" height="200" alt="reisenx"/></p> 
+</div>
 
-<p><img align="left" src="https://github-profile-trophy.vercel.app/?username=reisenx&theme=darkhub&title=-Issues,-Reviews" alt="reisenx" /></p>
-
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=reisenx&theme=darkhub&title=-Issues,-Reviews" alt="reisenx"/>
+</div>
