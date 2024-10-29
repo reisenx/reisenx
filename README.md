@@ -7,7 +7,7 @@
 
 <h2 align="left">🌱 Projects</h2>
 
-- 💻 Frontend Development of [Intania Job Fair 2024 Website]()
+- 💻 Frontend Development of [Intania Job Fair 2024 Website](https://github.com/esc-chula/intania-career-frontend)
 - ⚙️ Academic Repositories of [2110101 COMPUTER PROGRAMMING Course](https://github.com/reisenx/2110101-COM-PROG)
 - 📚 [Intania Starter Kit 2024](https://drive.google.com/drive/folders/14brjzl8lX5lZvZNOC85Bw6nyOgGIzeTY?usp=sharing) (Academic Resources for Chula Engineering Freshmen)
 
