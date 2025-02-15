@@ -12,7 +12,8 @@
 
 <h2 align="left">🌱 Projects</h2>
 
-- 💻 Frontend Development of Intania Job Fair 2024 Website ([Repository](https://github.com/esc-chula/intania-career-frontend) | [Website](https://career.intania.org/job-fair-2024))
+- 💻 Frontend Development of Intania Job Fair 2024 Website ([Repository (Currently Private)](https://github.com/esc-chula/intania-career-frontend) | [Website](https://career.intania.org/job-fair-2024)) 
+- 🎮 MINDsweeper: Indie game developed by OOP concept in Java [Repository](https://github.com/reisenx/PROG-METH-I-PROJECT)
 - ⚙️ Academic Repository of [2110101 COMPUTER PROGRAMMING Course](https://github.com/reisenx/2110101-COM-PROG)
 - ⚙️ Academic Repository of [2110211 INTRO TO DATA STRUCTURE Course](https://github.com/reisenx/2110211-INTRO-DATA-STRUCT)
 - ⚙️ Academic Repository of [2110263 DIGITAL COMPUTER LOGIC LABORATORY I Course](https://github.com/reisenx/2110263-DIG-LOGIC-LAB-I)
