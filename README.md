@@ -1,9 +1,14 @@
-<h1 align="center">Hello 👋 I'm Worralop Srichainont</h3>
+<div align="center">
+  <h1>Hello 👋 I'm Worralop Srichainont</h1>
+</div>
+
+
 
 - ⚡ I'm currently studying Computer Engineering at Chulalongkorn University (CU Intania 107 | CP 50)
 - ✨ I graduated from Suankularb Wittayalai School, GATE Program (OSK141)
 - 🌱 I'm currently learning Python, C, C++, Java, HTML, CSS, JavaScript and TypeScript.
-- 📚 I'm interested in Webstie Development, Software Development, Game Development and more!
+- 📚 I'm interested in Website Development, Software Development, Game Development and more!
+- 💻 Please click here to view [my Resume](https://drive.google.com/file/d/15n0U-s-VxX_2lOaQXWJpN1xlmBDa2kdY/view?usp=drive_link)
 
 <h2 align="left">🌱 Projects</h2>
 
