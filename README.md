@@ -24,7 +24,7 @@
 - 📚 Teacher Assistant (TA) of 2110101 COMPUTER PROGRAMMING Course
 - 🏕️ President of Get Ready, Freshy! 2024 Project
 - 🔥 Vice President of Integration Bee 2025 Project
-- 💻 IT Head of Intania Job Fair 2024
+- 💻 IT Head of Intania Expo 111
 - 💻 IT of Intania Job Fair 2024
 - 📘 Academic Head of FE Camp 18
 
