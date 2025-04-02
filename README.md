@@ -2,8 +2,6 @@
   <h1>Hello 👋 I'm Worralop Srichainont</h1>
 </div>
 
-
-
 - ⚡ I'm currently studying Computer Engineering at Chulalongkorn University (CU Intania 107 | CP 50)
 - ✨ I graduated from Suankularb Wittayalai School, GATE Program (OSK141)
 - 🌱 I'm currently learning Python, C, C++, Java, HTML, CSS, JavaScript and TypeScript.
@@ -11,12 +9,19 @@
 - 💻 Please click here to view [my Resume](https://drive.google.com/file/d/15n0U-s-VxX_2lOaQXWJpN1xlmBDa2kdY/view?usp=drive_link)
 
 <h2 align="left">🌱 Projects</h2>
+
 - 💻 Project Manager of Intania Expo 111 Website ([Repository](https://github.com/esc-chula/intania-expo-2025))
+
 - 💻 Frontend Development of Intania Job Fair 2024 Website ([Repository](https://github.com/esc-chula/intania-career-frontend) (Currently Private) | [Website](https://career.intania.org/job-fair-2024)) 
+
 - 🎮 MINDsweeper: Indie game developed by OOP concept in Java [Repository](https://github.com/reisenx/PROG-METH-I-PROJECT)
+
 - ⚙️ Academic Repository of [2110101 COMPUTER PROGRAMMING Course](https://github.com/reisenx/2110101-COM-PROG)
+
 - ⚙️ Academic Repository of [2110211 INTRO TO DATA STRUCTURE Course](https://github.com/reisenx/2110211-INTRO-DATA-STRUCT)
+
 - ⚙️ Academic Repository of [2110263 DIGITAL COMPUTER LOGIC LABORATORY I Course](https://github.com/reisenx/2110263-DIG-LOGIC-LAB-I)
+
 - 📚 [Intania Starter Kit 2024](https://drive.google.com/drive/folders/14brjzl8lX5lZvZNOC85Bw6nyOgGIzeTY?usp=sharing) (Academic Resources for Chula Engineering Freshmen)
 
 <h2 align="left">✨ Experiences</h2>
