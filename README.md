@@ -11,8 +11,8 @@
 - 💻 Please click here to view [my Resume](https://drive.google.com/file/d/15n0U-s-VxX_2lOaQXWJpN1xlmBDa2kdY/view?usp=drive_link)
 
 <h2 align="left">🌱 Projects</h2>
-
-- 💻 Frontend Development of Intania Job Fair 2024 Website ([Repository (Currently Private)](https://github.com/esc-chula/intania-career-frontend) | [Website](https://career.intania.org/job-fair-2024)) 
+- 💻 Project Manager of Intania Expo 111 Website ([Repository](https://github.com/esc-chula/intania-expo-2025))
+- 💻 Frontend Development of Intania Job Fair 2024 Website ([Repository](https://github.com/esc-chula/intania-career-frontend) (Currently Private) | [Website](https://career.intania.org/job-fair-2024)) 
 - 🎮 MINDsweeper: Indie game developed by OOP concept in Java [Repository](https://github.com/reisenx/PROG-METH-I-PROJECT)
 - ⚙️ Academic Repository of [2110101 COMPUTER PROGRAMMING Course](https://github.com/reisenx/2110101-COM-PROG)
 - ⚙️ Academic Repository of [2110211 INTRO TO DATA STRUCTURE Course](https://github.com/reisenx/2110211-INTRO-DATA-STRUCT)
@@ -24,6 +24,8 @@
 - ✨ Academic department, Engineering Student Committee ([@ESC-chula](https://github.com/esc-chula)) of Chulalongkorn University
 - 📚 Teacher Assistant (TA) of 2110101 COMPUTER PROGRAMMING Course
 - 🏕️ President of Get Ready, Freshy! 2024 Project
+- ➕ Vice President of Integration Bee 2025 Project
+- 💻 IT Head of Intania Job Fair 2024
 - 💻 IT of Intania Job Fair 2024
 - 📘 Academic Head of FE Camp 18
 
