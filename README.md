@@ -10,7 +10,7 @@
 
 <h2 align="left">🌱 Projects</h2>
 
-- 💻 Project Manager of Intania Expo 111 Website ([Repository](https://github.com/esc-chula/intania-expo-2025))
+- 💻 Project Manager of Intania Expo 111 Website ([Repository](https://github.com/esc-chula/intania-expo-2025) | [Website](https://expo.intania.org/))
 - 💻 Frontend Development of Intania Job Fair 2024 Website ([Repository](https://github.com/esc-chula/intania-career-frontend) (Currently Private) | [Website](https://career.intania.org/job-fair-2024)) 
 - 🎮 MINDsweeper: Indie game developed by OOP concept in Java [Repository](https://github.com/reisenx/PROG-METH-I-PROJECT)
 - ⚙️ Academic Repository of [2110101 COMPUTER PROGRAMMING Course](https://github.com/reisenx/2110101-COM-PROG)
