@@ -50,5 +50,5 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=reisenx&theme=darkhub&title=Commits,Experience,Followers,Stars,Reviews,MultiLanguage&column=-1" alt="reisenx"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=reisenx&theme=darkhub&title=Commits,Experience,Followers,Stars,Reviews,MultiLanguage,Organizations&column=-1" alt="reisenx"/>
 </div>
